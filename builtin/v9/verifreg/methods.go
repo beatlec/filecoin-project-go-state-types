@@ -1,9 +1,9 @@
 package verifreg
 
 import (
-	"github.com/filecoin-project/go-address"
-	"github.com/filecoin-project/go-state-types/abi"
-	"github.com/filecoin-project/go-state-types/builtin"
+	"github.com/beatlec/filecoin-project-go-address"
+	"github.com/beatlec/filecoin-project-go-state-types/abi"
+	"github.com/beatlec/filecoin-project-go-state-types/builtin"
 )
 
 var Methods = map[abi.MethodNum]builtin.MethodMeta{
