@@ -1,7 +1,7 @@
 package market
 
 import (
-	addr "github.com/filecoin-project/go-address"
+	addr "github.com/beatlec/filecoin-project-go-address"
 	"github.com/filecoin-project/go-state-types/big"
 	"github.com/filecoin-project/go-state-types/builtin"
 	"github.com/filecoin-project/go-state-types/builtin/v9/util/adt"
